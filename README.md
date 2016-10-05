@@ -5,5 +5,8 @@ Here's a [Demo](http://www.matthamil.me/Pathfinder)
 
 ### Setup and Installation
 
+#### Quick Use
+
 1. Clone the repository.
 2. Navigate to your `index.html` file in the web browser to see the app.
+
